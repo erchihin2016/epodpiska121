@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">podpisra121</string>
+    <string name="Zagolovok">Подписка</string>
+    <string name="viewname">Имя пользователя</string>
+    <string name="editname">Name</string>
+    <string name="viewemail">Электронная почта</string>
+    <string name="editemail">E-mail</string>
+    <string name="ok">OK</string>
+    <string name="clean">Очистить</string>
+    <string name="result">Подписка на рассылку успешно оформлена для пользователя</string>
+</resources>
